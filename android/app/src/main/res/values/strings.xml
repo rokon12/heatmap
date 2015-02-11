@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Heatmap</string>
+    <string name="maps_api_key">AIzaSyDY_LYiD0VhTJBgI3OwWTrw5VSO5mxDd6o</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
